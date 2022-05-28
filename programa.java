@@ -156,12 +156,5 @@ public class programa {
         System.out.println("\n");
 
         System.out.println("-------------------------------------------------------------");
-
-        // Ading a 2 seconds delay
-        try {
-            TimeUnit.SECONDS.sleep(2);
-        } catch (InterruptedException e) {
-            System.out.println(e);
-        }
     }
 }
