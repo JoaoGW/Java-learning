@@ -135,7 +135,7 @@ public class programa {
             System.out.println(i + "a repetição" + " de 5");
             i++;
         }
-        System.out.println("\n");
+        System.out.print("\n");
 
         // Laços condicionais com escopo
         System.out.println("Laço de Reptição com Escopo");
@@ -146,14 +146,14 @@ public class programa {
             System.out.println(total);
             contador++;
         }
-        System.out.println("\n");
+        System.out.print("\n");
 
         // Laço Condicional com for
         System.out.println("Laço de Repetição For");
         for (int numero = 1; numero <= 5; numero++) {
             System.out.println(numero + " de 5");
         }
-        System.out.println("\n");
+        System.out.print("\n");
 
         System.out.println("-------------------------------------------------------------");
     }
